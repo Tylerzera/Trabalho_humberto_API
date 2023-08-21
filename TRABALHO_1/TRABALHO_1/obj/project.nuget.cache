@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "47r7lh6bdplKjZBu2/CyAhfzkibsL0q1eUazaHqiZai40MK/4vX4nyi25Kem07459V7HAm4/lA5LqjoPJeNQFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryano\\Desktop\\TRABALHO 1 HUMBERTO (CERTO)\\TRABALHO_1\\TRABALHO_1\\TRABALHO_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ryano\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
